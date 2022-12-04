@@ -1,0 +1,15 @@
+C:\учеба\кр по первому блоку курса\DZ\bin\Debug\net6.0\DZ.exe
+C:\учеба\кр по первому блоку курса\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\учеба\кр по первому блоку курса\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\учеба\кр по первому блоку курса\DZ\bin\Debug\net6.0\DZ.dll
+C:\учеба\кр по первому блоку курса\DZ\bin\Debug\net6.0\DZ.pdb
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.dll
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.pdb
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\учеба\кр по первому блоку курса\DZ\obj\Debug\net6.0\ref\DZ.dll
